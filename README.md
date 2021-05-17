@@ -1,4 +1,4 @@
-# Maser-Thesis-DMCN
+# Master-Thesis-DMCN
 ---
 ## Dynamic Memory based Capsule Networks for Few-Shot Text Classification(DMCN)
   
